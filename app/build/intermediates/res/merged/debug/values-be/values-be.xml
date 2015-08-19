@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/D:/GitHub/DeskClock/app/src/main/res/values-be/strings.xml -->
+    <eat-comment/>
+    <string-array name="alarm_set">
+    <item msgid="6450913786084215050">"Сiгнал усталяваны менш чым на 1 хвіліну з гэтага моманту."</item>
+    <item msgid="6002066367368421848">"Сігнал усталяваны на <ns1:g id="DAYS">%1$s</ns1:g> д. з гэтага моманту."</item>
+    <item msgid="8824719306247973774">"Сігнал усталяваны на <ns1:g id="HOURS">%2$s</ns1:g> гадз. з гэтага моманту."</item>
+    <item msgid="8182406852935468862">"Сiгнал усталяваны на <ns1:g id="DAYS">%1$s</ns1:g> д. i <ns1:g id="HOURS">%2$s</ns1:g> гадз. з гэтага моманту."</item>
+    <item msgid="2532279224777213194">"Сігнал усталяваны на <ns1:g id="MINUTES">%3$s</ns1:g> хв. з гэтага моманту."</item>
+    <item msgid="5936557894247187717">"Сігнал усталяваны на <ns1:g id="DAYS">%1$s</ns1:g> д. <ns1:g id="MINUTES">%3$s</ns1:g> хв. з гэтага моманту."</item>
+    <item msgid="9115697840826129603">"Сігнал усталяваны на <ns1:g id="HOURS">%2$s</ns1:g> гадз. і <ns1:g id="MINUTES">%3$s</ns1:g> хв. з гэтага моманту."</item>
+    <item msgid="2332583385137381060">"Сігнал усталяваны на <ns1:g id="DAYS">%1$s</ns1:g> д., <ns1:g id="HOURS">%2$s</ns1:g> гадз. і <ns1:g id="MINUTES">%3$s</ns1:g> хв. з гэтага моманту."</item>
+  </string-array>
+    <string-array name="auto_silence_entries">
+    <item msgid="3693401222993867634">"5 хвілін"</item>
+    <item msgid="3663730603519549990">"10 хвілін"</item>
+    <item msgid="1385481095199681200">"15 хвілін"</item>
+    <item msgid="420479821767342125">"20 хвілін"</item>
+    <item msgid="2107936130151066746">"25 хвілін"</item>
+    <item msgid="7219791437023378544">"30 хвілін"</item>
+    <item msgid="4278641338024561333">"Ніколі"</item>
+  </string-array>
+    <string-array name="clock_style_entries">
+    <item msgid="917900462224167608">"Аналагавы"</item>
+    <item msgid="8483930821046925592">"Лічбавы"</item>
+  </string-array>
+    <string-array name="sw_share_strings">
+    <item msgid="842841032273927988">"Ты хутчэй маланкi."</item>
+    <item msgid="6332879039890727169">"Атрымлівайце асалоду ад вынiкаў сваёй працы."</item>
+    <item msgid="815382761274660130">"Андроiды хуткiя, але не настолькi!"</item>
+    <item msgid="7916250650982813737">"Уф..."</item>
+    <item msgid="6836603904515182333">"Разоў: L33t."</item>
+    <item msgid="7508085100680861631">"Хутка ты."</item>
+    <item msgid="5961245252909589573">"Паляцелi з касмiчнай хуткасцю!"</item>
+    <item msgid="5211891900854545940">"Проста скокнiце ўлева."</item>
+    <item msgid="9071353477103826053">"Ёсць да чаго iмкнуцца."</item>
+    <item msgid="3785193933691117181">"Фатонная хуткасць."</item>
+  </string-array>
+    <string-array name="timer_notifications">
+    <item msgid="7760558912503484257">"Застаецца менш хвiлiны."</item>
+    <item msgid="83197792732433351">"Застаецца <ns1:g id="HOURS">%1$s</ns1:g>"</item>
+    <item msgid="8919698220200894252">"Застаецца <ns1:g id="MINUTES">%2$s</ns1:g>"</item>
+    <item msgid="8458069283817013813">"Застаецца <ns1:g id="HOURS">%1$s</ns1:g> <ns1:g id="MINUTES">%2$s</ns1:g>"</item>
+  </string-array>
+    <string-array name="volume_button_setting_entries">
+    <item msgid="7972756698723318690">"Адкласці"</item>
+    <item msgid="3450979320164769576">"Скасаваць"</item>
+    <item msgid="6302517608411378024">"Нічога не рабіць"</item>
+  </string-array>
+    <plurals name="Nhours_description">
+    <item msgid="371227238759147245" quantity="one">"1 гадзіна"</item>
+    <item msgid="7018184076091344797" quantity="other">"Гадзiн: <ns1:g id="NUMBER">%d</ns1:g>"</item>
+  </plurals>
+    <plurals name="Nminutes_description">
+    <item msgid="1001391305885322059" quantity="one">"1 хвіліна"</item>
+    <item msgid="6948360065351547776" quantity="other">"Хвiлін: <ns1:g id="NUMBER">%d</ns1:g>"</item>
+  </plurals>
+    <plurals name="Nseconds_description">
+    <item msgid="6589853086641485725" quantity="one">"1 секунда"</item>
+    <item msgid="7583230315175387547" quantity="other">"Секунд: <ns1:g id="NUMBER">%d</ns1:g>"</item>
+  </plurals>
+    <plurals name="alarm_delete_confirmation">
+    <item msgid="111940612131906802" quantity="one">"Выдаліць выбраную абвестку?"</item>
+    <item msgid="6918176478191272189" quantity="other">"Выдаліць выбраныя абвесткі?"</item>
+  </plurals>
+    <plurals name="snooze_duration">
+    <item msgid="7406963706727564418" quantity="one">"1 хвіліна"</item>
+    <item msgid="568504136093419703" quantity="other">"<ns1:g id="NUMBER">%d</ns1:g> хв."</item>
+  </plurals>
+    <plurals name="snooze_picker_label">
+    <item msgid="3783171637798575068" quantity="one">"хвіліна"</item>
+    <item msgid="1304056759541595077" quantity="other">"хвіліны"</item>
+  </plurals>
+    <plurals name="timers_num">
+    <item msgid="6764708652976799977" quantity="one">"1 хвіліна"</item>
+    <item msgid="3799129667336330616" quantity="other">"Таймераў: <ns1:g id="NUMBER">%d</ns1:g>"</item>
+  </plurals>
+    <string msgid="5976616107390962899" name="add_alarm">"Дадаць будзільнік"</string>
+    <string msgid="4942914605480888820" name="alarm_alert_dismiss_text">"Адхіліць"</string>
+    <string msgid="1774416052207651584" name="alarm_alert_snooze_text">"Адкласці"</string>
+    <string msgid="6958013659168344550" name="alarm_alert_snooze_until">"Перанос да <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="740283647046258651" name="alarm_button_description">"Будзільнікі"</string>
+    <string msgid="5017075127290219443" name="alarm_deleted">"Абвестка выдалена."</string>
+    <string msgid="2147506334302260256" name="alarm_klaxon_service_desc">"Служба прайгравання для сігналаў, усталяваных у Clock."</string>
+    <string msgid="7589940465292950600" name="alarm_list_title">"Будзільнікі"</string>
+    <string msgid="5404083762646377829" name="alarm_notify_snooze_label">"<ns1:g id="LABEL">%s</ns1:g> (адкладзена)"</string>
+    <string msgid="4819324081410990368" name="alarm_notify_snooze_text">"Сiгнал усталяваны на <ns1:g id="TIME">%s</ns1:g>. Дакранiцеся, каб адмянiць."</string>
+    <string msgid="4891014685945904766" name="alarm_notify_text">"Выключыць або адмянiць."</string>
+    <string msgid="7242985466344233206" name="alarm_repeat">"Паўтарыць"</string>
+    <string msgid="6049627772103646753" name="alarm_settings">"БУДЗIЛЬНIКI"</string>
+    <string msgid="5710042601177655254" name="alarm_undo">"вярнуць"</string>
+    <string msgid="3476686921490362230" name="alarm_vibrate">"Вібраваць"</string>
+    <string msgid="8506245173912428522" name="alarm_volume_title">"Гучнасць будзільніка"</string>
+    <string msgid="1075308195332888260" name="alarms_selected">"Выбрана: <ns1:g id="ALARMS">%d</ns1:g>"</string>
+    <string msgid="6506982899651975645" name="alert">"Рынгтон абвесткi"</string>
+    <string msgid="278532320068394600" name="all_timers_stopped_notif">"Націсніце, каб убачыць свае таймеры"</string>
+    <string msgid="1670505720837152766" name="analog_gadget">"Аналагавы гадзіннік"</string>
+    <string msgid="6674495003718166674" name="app_label">"Гадзіннік"</string>
+    <string msgid="4821982647348750809" name="auto_silence_never">"Ніколі"</string>
+    <string msgid="7028508740659733028" name="auto_silence_summary">"<ns1:g id="MINUTES">%d</ns1:g> хв."</string>
+    <string msgid="2012754009554434544" name="auto_silence_title">"Цішыня потым"</string>
+    <string msgid="6274174710735449252" name="automatic_home_clock">"Аўтаматычны хатнi гадзiннiк"</string>
+    <string msgid="6020476321040807273" name="automatic_home_clock_summary">"Падчас падарожжа ў рэгiёне, дзе час адрознiваецца, дадайце хатнi гадзiннiк"</string>
+    <string msgid="5251483622085889693" name="battery_charging_level">"<ns1:g id="NUMBER">%d</ns1:g><ns1:g id="PERCENT">%%</ns1:g>"</string>
+    <string msgid="8016103479617020265" name="button_alarms">"Будзільнікі"</string>
+    <string msgid="4555761857494501363" name="button_cities">"Гарады"</string>
+    <string msgid="6050484561842120282" name="button_menu">"Пашыраныя налады"</string>
+    <string msgid="8552462751129256730" name="cities_activity_title">"Гарады"</string>
+    <string msgid="1783441538785676299" name="city_delete_confirmation">"Выдаліць гэты горад?"</string>
+    <string msgid="2656876819515011590" name="clock_instructions">"Выбраць гадзіннiк"</string>
+    <string msgid="8887845806151785393" name="clock_settings">"ГАДЗIННIК"</string>
+    <string msgid="2265011060429742344" name="clock_style">"Стыль"</string>
+    <string msgid="3561772046433483980" name="collapse_alarm">"Згарнуць абвесткi"</string>
+    <string msgid="2194676418924016327" name="control_set_alarm">"Усталяваць будзільнік"</string>
+    <string msgid="7984755014526510295" name="day">"1 дзень"</string>
+    <string msgid="971998564991636532" name="day_concat">", "</string>
+    <string msgid="2070509222727852210" name="days">"Дзён: <ns1:g id="DAYS">%s</ns1:g>"</string>
+    <string msgid="5590025289805630372" name="default_label">"Будзільнік"</string>
+    <string msgid="4549726190682964245" name="default_ringtone_setting_title">"Усталяваць мелодыю па змаўчанні"</string>
+    <string msgid="5732434972457000541" name="delete">"Выдаліць"</string>
+    <string msgid="3457780990646206817" name="delete_alarm">"Выдаліць сігнал"</string>
+    <string msgid="6578572637340860840" name="delete_alarm_confirm">"Выдаліць сiгнал?"</string>
+    <string msgid="1220848140260509437" name="deleted_message">"Выдалена"</string>
+    <string msgid="8240473964024874053" name="description_direction_down">"Перасуньце ўніз, каб перанесці"</string>
+    <string msgid="6328816971226781776" name="description_direction_left">"Перасуньце ўлева, каб перанесці"</string>
+    <string msgid="1615911557926085934" name="description_direction_right">"Перасуньце ўправа, каб адмяніць"</string>
+    <string msgid="7875287578324520904" name="description_direction_up">"Перасуньце ўверх, каб адмяніць"</string>
+    <string msgid="4207371097361657274" name="desk_clock_button_description">"Экран гадзінніка"</string>
+    <string msgid="2326954556720571358" name="digital_gadget">"Лічбавы гадзіннік"</string>
+    <string msgid="5889378670229554109" name="disable_alarm">"Выключыць будзільнік"</string>
+    <string msgid="6509722361933858451" name="done">"Гатова"</string>
+    <string msgid="1834599140632142536" name="enable_alarm">"Уключыць будзільнік"</string>
+    <string msgid="4100909974923444602" name="every_day">"Штодзень"</string>
+    <string msgid="7392616528943305020" name="expand_alarm">"Разгарнуць абвестку"</string>
+    <string msgid="1151743663255257668" name="gallery_button_description">"Галерэя"</string>
+    <string msgid="7786263119482654015" name="help">"даведка"</string>
+    <string msgid="3217727306480505694" name="hide_clock">"Схаваць гадзіннік"</string>
+    <string msgid="3383859096809056157" name="home_button_description">"Панэль запуску"</string>
+    <string msgid="4436139365695453870" name="home_label">"Галоўная старонка"</string>
+    <string msgid="9199730676287974501" name="home_time_zone">"Хатні гадзінны пояс"</string>
+    <string msgid="807894493443834624" name="home_time_zone_title">"Хатні гадзінны пояс"</string>
+    <string msgid="2546819039651509323" name="hour">"1 гадзіна"</string>
+    <string msgid="2071487018566991613" name="hours">"Гадзін: <ns1:g id="HOURS">%s</ns1:g>"</string>
+    <string msgid="3393478155635368097" name="hours_label">"h"</string>
+    <string msgid="8652842524970971830" name="hours_label_description">"гадзіны"</string>
+    <string msgid="162189613902857319" name="label">"Надпіс"</string>
+    <string msgid="8736179296142915727" name="label_description">"Надпіс"</string>
+    <string msgid="4699506713571930740" name="label_unlabeled"/>
+    <string msgid="6523322777415268044" name="loading_ringtone">"Загрузка мелодыі..."</string>
+    <string msgid="5612760670606829805" name="menu_clock">"Гадзіннік"</string>
+    <string msgid="3241995064554071588" name="menu_desk_clock">"Настольны гадзіннiк"</string>
+    <string msgid="7204602994918829751" name="menu_edit_alarm">"Змяніць будзільнік"</string>
+    <string msgid="4570953476186849841" name="menu_item_help">"Даведка"</string>
+    <string msgid="3486930302245398975" name="menu_item_night_mode">"Начны рэжым"</string>
+    <string msgid="1413723516369078665" name="menu_item_settings">"Налады"</string>
+    <string msgid="3396117705293574701" name="menu_stopwatch">"Секундамер"</string>
+    <string msgid="6459070074762877114" name="menu_timer">"Таймер"</string>
+    <string msgid="2486157997434653710" name="minute">"1 хвіліна"</string>
+    <string msgid="6115838729146292526" name="minutes">"<ns1:g id="MINUTES">%s</ns1:g> хв."</string>
+    <string msgid="3568098128251438588" name="minutes_label">"м"</string>
+    <string msgid="965686733490357796" name="minutes_label_description">"хвіліны"</string>
+    <string msgid="1626593420810117999" name="music_button_description">"Музыка"</string>
+    <string msgid="54104287800571769" name="never">"Ніколі"</string>
+    <string msgid="2650244835760747046" name="next_alarm_description">"Наступны сігнал: <ns1:g id="ALARM_TIME">%s</ns1:g>"</string>
+    <string msgid="6136454740115613653" name="next_timer_notif">"Наступны таймер: <ns1:g id="TIME_REMAINING">%s</ns1:g>"</string>
+    <string msgid="1017350187324162631" name="night_mode_summary">"Вельмі цьмяны дысплей (для цёмнага пакоя)"</string>
+    <string msgid="5983813889469616299" name="night_mode_title">"Начны рэжым"</string>
+    <string msgid="990894208217576381" name="nightmode_button_description">"Зацямненне"</string>
+    <string msgid="9100911171235162926" name="revert">"Вярнуць"</string>
+    <string msgid="9110746249688559579" name="ringtone">"Мелодыя выкліку"</string>
+    <string msgid="7580922112921069925" name="ringtone_description">"Мелодыя выкліку"</string>
+    <string msgid="7013450738357352801" name="screensaver_settings">"Налады \"Мары\""</string>
+    <string msgid="124655952824003246" name="seconds_label">"с."</string>
+    <string msgid="3821620053141299692" name="seconds_label_description">"секунды"</string>
+    <string msgid="775983396630163739" name="see_all">"Глядзець усе..."</string>
+    <string msgid="9148359866152726808" name="set_alarm">"Усталяваць будзільнік"</string>
+    <string msgid="5849739030579520686" name="settings">"Налады"</string>
+    <string msgid="8358759982675616915" name="show_clock">"Паказаць гадзіннік"</string>
+    <string msgid="8605302849408279221" name="silent_alarm_summary">"Ціхі рэжым"</string>
+    <string msgid="2077577763821006919" name="slash">"/"</string>
+    <string msgid="1097309861110780483" name="snooze_duration_title">"Iнтэрвал паўтора"</string>
+    <string msgid="8416624630388063996" name="stopwatch_service_desc">"Служба секундамера для запуску апавяшчэння."</string>
+    <string msgid="6992264696039004233" name="sw_lap_button">"Абарот"</string>
+    <string msgid="3535420316052647126" name="sw_notification_lap_number">"Круг <ns1:g id="NUMBER">%d</ns1:g>"</string>
+    <string msgid="6616804728322906117" name="sw_reset_button">"Скінуць"</string>
+    <string msgid="2569360966002022248" name="sw_resume_button">"Працягваць"</string>
+    <string msgid="4478648110382859382" name="sw_share_button">"Адправіць"</string>
+    <string msgid="614390674795945007" name="sw_share_laps">"Час круга:"</string>
+    <string msgid="7703563468204234405" name="sw_share_main">"Мой час: <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="8373422516681242270" name="sw_start_button">"Пачаць"</string>
+    <string msgid="8322958613123274451" name="sw_stop_button">"Спыніць"</string>
+    <string msgid="783124901663086172" name="swn_stopped">"Спынена"</string>
+    <string msgid="8067216534232296518" name="time">"Час"</string>
+    <string msgid="6001006474735281911" name="time_picker_00_label">":00"</string>
+    <string msgid="1027250857384838129" name="time_picker_30_label">":30"</string>
+    <string msgid="6754113715199751083" name="time_picker_ampm_label">"--"</string>
+    <string msgid="7437106489606013077" name="time_picker_cancel">"Адмена"</string>
+    <string msgid="331153175471468051" name="time_picker_set">"ОК"</string>
+    <string msgid="7484926510054777041" name="time_picker_time_seperator">":"</string>
+    <string msgid="862733633862574752" name="timer_add_timer">"Дадаць таймер"</string>
+    <string msgid="3572868404230815644" name="timer_cancel">"Адмена"</string>
+    <string msgid="8699122001991909302" name="timer_delete">"Выдаліць"</string>
+    <string msgid="2815524107015816453" name="timer_delete_confirmation">"Выдаліць гэты таймер?"</string>
+    <string msgid="4933184831583137249" name="timer_notification_label">"Таймер"</string>
+    <string msgid="6631211310420106116" name="timer_plus_one">"Дадаць 1 хвiліну"</string>
+    <string msgid="7848424809190171640" name="timer_reset">"Скінуць"</string>
+    <string msgid="2620214305660322415" name="timer_ring_service_desc">"Служба прайгравання сігналаў для таймераў, усталяваных у Гадзінніку."</string>
+    <string msgid="6158486445614356442" name="timer_start">"Пачаць"</string>
+    <string msgid="3361154678667736722" name="timer_stop">"Спыніць"</string>
+    <string msgid="2730331837832462008" name="timer_stopped">"Таймер спынены"</string>
+    <string msgid="9190440395938519009" name="timer_times_up">"Час выйшаў"</string>
+    <string msgid="5570729467344408506" name="timers_in_use">"Таймераў: <ns1:g id="NUMBER">%d</ns1:g>"</string>
+    <string msgid="2393640808691864520" name="timers_stopped">"Спыненых таймераў: <ns1:g id="NUMBER">%d</ns1:g>"</string>
+    <string msgid="8768042543750036853" name="volume_button_dialog_title">"Дзеянне кнопкi"</string>
+    <string msgid="6937131248843413357" name="volume_button_setting_title">"Кнопкі гучнасці"</string>
+    <string msgid="3425804832021006835" name="weather_fetch_failure">"Iнфармацыя пра надвор\'е зараз недаступная."</string>
+    <string msgid="5911196322328341288" name="world_day_of_week_label">"/ <ns1:g id="LABEL">%s</ns1:g>"</string>
+    <string msgid="7102083421938355017" name="zero">"0"</string>
+</resources>

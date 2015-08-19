@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/D:/GitHub/DeskClock/app/src/main/res/values-si/strings.xml -->
+    <eat-comment/>
+    <string-array name="alarm_set">
+    <item msgid="6450913786084215050">"ඇඟවීම මෙතැන් සිට ම්නිත්තු 1 කට අඩුවෙන් සකසා ඇත."</item>
+    <item msgid="6002066367368421848">"ඇඟවීම දැන් සිට <ns1:g id="DAYS">%1$s</ns1:g> කින් සකසා ඇත."</item>
+    <item msgid="8824719306247973774">"ඇඟවීම දැන් සිට <ns1:g id="HOURS">%2$s</ns1:g> කින් සකසා ඇත."</item>
+    <item msgid="8182406852935468862">"ඇඟවීම දැන් සිට <ns1:g id="DAYS">%1$s</ns1:g> සහ <ns1:g id="HOURS">%2$s</ns1:g> කින් සකසා ඇත."</item>
+    <item msgid="2532279224777213194">"ඇඟවීම දැන් සිට <ns1:g id="MINUTES">%3$s</ns1:g> කින් සකසා ඇත."</item>
+    <item msgid="5936557894247187717">"ඇඟවීම දැන් සිට <ns1:g id="DAYS">%1$s</ns1:g> සහ <ns1:g id="MINUTES">%3$s</ns1:g> කින් සකසා ඇත."</item>
+    <item msgid="9115697840826129603">"ඇඟවීම දැන් සිට <ns1:g id="HOURS">%2$s</ns1:g> සහ <ns1:g id="MINUTES">%3$s</ns1:g> කින් සකසා ඇත."</item>
+    <item msgid="2332583385137381060">"ඇඟවීම දැන් සිට <ns1:g id="DAYS">%1$s</ns1:g>,<ns1:g id="HOURS">%2$s</ns1:g> සහ <ns1:g id="MINUTES">%3$s</ns1:g> කින් සකසා ඇත."</item>
+  </string-array>
+    <string-array name="auto_silence_entries">
+    <item msgid="3693401222993867634">"මිනිත්තු 5"</item>
+    <item msgid="3663730603519549990">"මිනිත්තු 10"</item>
+    <item msgid="1385481095199681200">"මිනිත්තු 15"</item>
+    <item msgid="420479821767342125">"මිනිත්තු 20"</item>
+    <item msgid="2107936130151066746">"මිනිත්තු 25"</item>
+    <item msgid="7219791437023378544">"මිනිත්තු 30"</item>
+    <item msgid="4278641338024561333">"කවදාවත් නොවේ"</item>
+  </string-array>
+    <string-array name="clock_style_entries">
+    <item msgid="917900462224167608">"ප්‍රතිසමය"</item>
+    <item msgid="8483930821046925592">"ඩිජිටල්"</item>
+  </string-array>
+    <string-array name="sw_share_strings">
+    <item msgid="842841032273927988">"ඔබ ඉතා වේගයෙන් යන්නෙක්."</item>
+    <item msgid="6332879039890727169">"ඔබගේ උත්සාහයේ ප්‍රතිපල භුක්ති විඳින්න."</item>
+    <item msgid="815382761274660130">"Android වේගවත් යැයි ප්‍රසිද්ධයි, එහෙත් ඔබ තරම් නොවේ!"</item>
+    <item msgid="7916250650982813737">"චිහ්."</item>
+    <item msgid="6836603904515182333">"L33t වාර."</item>
+    <item msgid="7508085100680861631">"මෙතරම් අතිවිශාල ප්‍රවේගයක්."</item>
+    <item msgid="5961245252909589573">"දැන් යලිත් කාල ඔතා දමමු."</item>
+    <item msgid="5211891900854545940">"වමට පැනීමක් පමණි."</item>
+    <item msgid="9071353477103826053">"තදියම සඳහා ඔබ සතුව පලත්තක් ඇත."</item>
+    <item msgid="3785193933691117181">"ෆොටෝනමය ප්‍රවේගය."</item>
+  </string-array>
+    <string-array name="timer_notifications">
+    <item msgid="7760558912503484257">"තවත් මිනිත්තුවකට අඩුවෙන් ඉතිරිව ඇත"</item>
+    <item msgid="83197792732433351">"<ns1:g id="HOURS">%1$s</ns1:g> ක් ඉතිරිව ඇත"</item>
+    <item msgid="8919698220200894252">"<ns1:g id="MINUTES">%2$s</ns1:g> ක් ඉතිරිව ඇත"</item>
+    <item msgid="8458069283817013813">"<ns1:g id="HOURS">%1$s</ns1:g> <ns1:g id="MINUTES">%2$s</ns1:g> ක් ඉතිරිව ඇත"</item>
+  </string-array>
+    <string-array name="timezone_labels">
+    <item msgid="5495601234086197399">"මාර්ෂල් දූපත්"</item>
+    <item msgid="4196408495909011020">"මිඩ්වේ දූපත"</item>
+    <item msgid="1414384194857730006">"හවායි"</item>
+    <item msgid="2687091371581931926">"ඇලස්කාව"</item>
+    <item msgid="1922100269679049660">"පැසිෆික් වේලාව"</item>
+    <item msgid="7156402158716866161">"ටිජුආනා"</item>
+    <item msgid="1144117502254612241">"ඇරිසෝනා"</item>
+    <item msgid="101284182011722637">"චිහුආහුආ"</item>
+    <item msgid="689121094232986897">"කඳුකර වේලාව"</item>
+    <item msgid="5445331923942302756">"මධ්‍යම ඇමරිකාව"</item>
+    <item msgid="2749806434052452351">"මධ්‍යම වේලාව"</item>
+    <item msgid="3997138870229703753">"මෙක්සිකෝ නගරය"</item>
+    <item msgid="5425567073027744888">"සස්කචෙවන්"</item>
+    <item msgid="2877342865396629368">"බොගොටා"</item>
+    <item msgid="568682398893899670">"නැගෙනහිර වේලාව"</item>
+    <item msgid="668135984541863866">"වෙනිසියුලාව"</item>
+    <item msgid="3737474220861486223">"අත්ලාන්තික් වේලාව (බාබඩෝස්)"</item>
+    <item msgid="6279116051273436870">"අත්ලාන්තික් වේලාව (කැනඩාව)"</item>
+    <item msgid="8513382867172014244">"මනාවුස්"</item>
+    <item msgid="7776299003105932407">"සන්තියාගෝ"</item>
+    <item msgid="8636989494746218677">"නිව්ෆවුන්ඩ්ලන්ඩ්"</item>
+    <item msgid="4402541016410147505">"බ්‍රසිලියා"</item>
+    <item msgid="2251184440733164084">"බුවනෝස් අයර්ස්"</item>
+    <item msgid="6202926618569004969">"ග්‍රීන්ලන්තය"</item>
+    <item msgid="2355275037115290628">"මොන්ටෙවීඩි‍යෝ"</item>
+    <item msgid="1377549694711708945">"මාධ්‍ය-අත්ලාන්තික්"</item>
+    <item msgid="3457671272126347981">"ඇසෝරස්"</item>
+    <item msgid="3659315141063710840">"කේප් වෙර්ඩ් දූපත්"</item>
+    <item msgid="1260941741802367635">"කැසබලන්කා"</item>
+    <item msgid="8275203689687954762">"ලන්ඩන්, ඩබ්ලින්"</item>
+    <item msgid="5970179539479320905">"ඇම්ස්ටර්ඩෑම්, බර්ලින්"</item>
+    <item msgid="5396319478750517962">"බෙල්ග්‍රේඩ්"</item>
+    <item msgid="8688787475056663004">"බ්‍රසල්ස්"</item>
+    <item msgid="3415827874921681622">"සරජෙවෝ"</item>
+    <item msgid="402008965928320066">"වින්ඩ්හෝක්"</item>
+    <item msgid="6436942724959275569">"බ. අප්‍රිකානු වේලාව"</item>
+    <item msgid="954536568417204026">"අම්මාන්, ජෝර්දානය"</item>
+    <item msgid="8932745482008902551">"ඇතැන්ස්, ඉස්තාන්බුල්"</item>
+    <item msgid="320025725949024510">"බෙයිරුට්, ලෙබනනය"</item>
+    <item msgid="7242083112551905970">"කයිරෝ"</item>
+    <item msgid="7241520146011450419">"හෙල්සින්කි"</item>
+    <item msgid="2717065017510546526">"ජෙරුසලම්"</item>
+    <item msgid="8698556287741466553">"මින්ස්කි"</item>
+    <item msgid="1797598357342084506">"හරාරේ"</item>
+    <item msgid="5169119919905066998">"බැග්ඩෑඩ්"</item>
+    <item msgid="2615788116201065182">"මොස්කව්"</item>
+    <item msgid="9084354867885584646">"කුවේට්"</item>
+    <item msgid="1351570519986178268">"නයිරෝබි"</item>
+    <item msgid="7094569580635877460">"ටෙහෙරාන්"</item>
+    <item msgid="3953138772617909704">"බාකු"</item>
+    <item msgid="2868893113598800752">"ටිබිලිස්"</item>
+    <item msgid="7088581865802476373">"යෙරෙවන්"</item>
+    <item msgid="1941122257623887992">"ඩුබායි"</item>
+    <item msgid="9194797225058249720">"කාබුල්"</item>
+    <item msgid="6486569254364577332">"ඉස්ලාමාබාද්, කරච්චි"</item>
+    <item msgid="5487724896895412089">"යුරාල්ස්ක්"</item>
+    <item msgid="364906869710826982">"යෙකටෙරින්බ්ර්ග්"</item>
+    <item msgid="2106505051751383358">"කොල්කටාව"</item>
+    <item msgid="6851586621581501447">"ශ්‍රී ලංකාව"</item>
+    <item msgid="800438544128213134">"කත්මන්ඩු"</item>
+    <item msgid="6173621471007643021">"ඇස්ටානා"</item>
+    <item msgid="8645125891971581128">"යැන්ගොන්"</item>
+    <item msgid="2886407505119737794">"ක්‍රස්නොයර්ස්ක්"</item>
+    <item msgid="3408222398188107090">"බෑංකොක්"</item>
+    <item msgid="4441612937172851228">"බීජිං"</item>
+    <item msgid="4936715789028996930">"හොං කොං"</item>
+    <item msgid="4261031143777385525">"ඉර්කුට්ස්ක්"</item>
+    <item msgid="3538060959338191835">"ක්වාලා ලම්පූර්"</item>
+    <item msgid="1438847562643099201">"පර්ත්"</item>
+    <item msgid="3063913827688244383">"තයිපෙයි"</item>
+    <item msgid="3502757135046564209">"සෝල්"</item>
+    <item msgid="6107588684519111669">"ටෝකියෝව, ඔසාකා"</item>
+    <item msgid="4350769099755608471">"යකුට්ස්ක්"</item>
+    <item msgid="2422707004533526462">"ඇඩිලේඩ්"</item>
+    <item msgid="1292192084554134339">"ඩාවින්"</item>
+    <item msgid="1320883699470001716">"බ්‍රිස්බේන්"</item>
+    <item msgid="5137198806146386527">"හෝබාට්"</item>
+    <item msgid="5920063686933941174">"සිඩ්නි, කැන්බරා"</item>
+    <item msgid="615906039696009425">"ව්ලදිවෝස්ටෝක්"</item>
+    <item msgid="7738680449356275374">"ගුවාම්"</item>
+    <item msgid="2882915026380778227">"මැගඩන්"</item>
+    <item msgid="8255615641810148152">"ඕක්ලන්ඩ්"</item>
+    <item msgid="3027153773466391728">"ෆිජි"</item>
+    <item msgid="5911600083231840181">"ටොන්ගා"</item>
+  </string-array>
+    <string-array name="volume_button_setting_entries">
+    <item msgid="7972756698723318690">"යළි සිහි කැඳවන්න"</item>
+    <item msgid="3450979320164769576">"ඉවතලන්න"</item>
+    <item msgid="6302517608411378024">"කිසිවක් නොකරන්න"</item>
+  </string-array>
+    <plurals name="Nhours_description">
+    <item msgid="371227238759147245" quantity="one">"පැය 1"</item>
+    <item msgid="7018184076091344797" quantity="other">"පැය <ns1:g id="NUMBER">%d</ns1:g>"</item>
+  </plurals>
+    <plurals name="Nminutes_description">
+    <item msgid="1001391305885322059" quantity="one">"මිනිත්තු 1"</item>
+    <item msgid="6948360065351547776" quantity="other">"මිනිත්තු <ns1:g id="NUMBER">%d</ns1:g>"</item>
+  </plurals>
+    <plurals name="Nseconds_description">
+    <item msgid="6589853086641485725" quantity="one">"තත්පර 1"</item>
+    <item msgid="7583230315175387547" quantity="other">"තත්පර <ns1:g id="NUMBER">%d</ns1:g>"</item>
+  </plurals>
+    <plurals name="alarm_delete_confirmation">
+    <item msgid="111940612131906802" quantity="one">"තෝරාගන්නා ලද ඇඟවීම මකන්නද?"</item>
+    <item msgid="6918176478191272189" quantity="other">"තෝරාගන්නා ලද ඇඟවීම් මකන්නද?"</item>
+  </plurals>
+    <plurals name="snooze_duration">
+    <item msgid="7406963706727564418" quantity="one">"මිනිත්තු 1"</item>
+    <item msgid="568504136093419703" quantity="other">"මිනිත්තු <ns1:g id="NUMBER">%d</ns1:g>"</item>
+  </plurals>
+    <plurals name="snooze_picker_label">
+    <item msgid="3783171637798575068" quantity="one">"මිනිත්තුව"</item>
+    <item msgid="1304056759541595077" quantity="other">"මිනිත්තු"</item>
+  </plurals>
+    <plurals name="timers_num">
+    <item msgid="6764708652976799977" quantity="one">"මිනිත්තු 1"</item>
+    <item msgid="3799129667336330616" quantity="other">"කාල ගැනීම් <ns1:g id="NUMBER">%d</ns1:g>"</item>
+  </plurals>
+    <string msgid="5976616107390962899" name="add_alarm">"ඇඟවීමක් එක් කරන්න"</string>
+    <string msgid="2704775170733835993" name="alarm_alert_alert_silenced">"මිනිත්තු <ns1:g id="MINUTES">%d</ns1:g> ට පසු ඇඟවීම නිහඬ කරන්න."</string>
+    <string msgid="4942914605480888820" name="alarm_alert_dismiss_text">"ඉවතලන්න"</string>
+    <string msgid="656470966696912087" name="alarm_alert_snooze_set">"මිනිත්තු <ns1:g id="MINUTES">%d</ns1:g> කින් යළි සිහි කැඳවන්න."</string>
+    <string msgid="1774416052207651584" name="alarm_alert_snooze_text">"යළි සිහි කැඳවන්න"</string>
+    <string msgid="6958013659168344550" name="alarm_alert_snooze_until">"<ns1:g id="TIME">%s</ns1:g> තෙක් යළි සිහි කැඳවන්න"</string>
+    <string msgid="740283647046258651" name="alarm_button_description">"ඇඟවීම්"</string>
+    <string msgid="5017075127290219443" name="alarm_deleted">"ඇඟවීම මකාදැමිණි."</string>
+    <string msgid="2147506334302260256" name="alarm_klaxon_service_desc">"ඔරලෝසුවේ සකසා ඇති ඇඟවීම් සඳහා ශබ්ද පසු ධාවනය කිරීමේ සේවාව."</string>
+    <string msgid="7589940465292950600" name="alarm_list_title">"ඇඟවීම්"</string>
+    <string msgid="5404083762646377829" name="alarm_notify_snooze_label">"<ns1:g id="LABEL">%s</ns1:g> (සිහිකැඳවන ලදී)"</string>
+    <string msgid="4819324081410990368" name="alarm_notify_snooze_text">"<ns1:g id="TIME">%s</ns1:g> ට ඇඟවීම සකසන ලදී. අවලංගු කිරීමට ස්පර්ශ කරන්න."</string>
+    <string msgid="4891014685945904766" name="alarm_notify_text">"ඇඟවීම ඉවතලන්න හෝ යළි සිහිකැඳවන්න."</string>
+    <string msgid="7242985466344233206" name="alarm_repeat">"නැවත කරන්න"</string>
+    <string msgid="6049627772103646753" name="alarm_settings">"ඇඟවීම්"</string>
+    <string msgid="5710042601177655254" name="alarm_undo">"අස් කරන්න"</string>
+    <string msgid="3476686921490362230" name="alarm_vibrate">"කම්පනය වීම"</string>
+    <string msgid="8506245173912428522" name="alarm_volume_title">"ඇඟවීම් ශබ්දය"</string>
+    <string msgid="1075308195332888260" name="alarms_selected">"<ns1:g id="ALARMS">%d</ns1:g> තෝරාගෙන ඇත"</string>
+    <string msgid="6506982899651975645" name="alert">"ඇඟවීම් රිංග්ටෝනය"</string>
+    <string msgid="278532320068394600" name="all_timers_stopped_notif">"ඔබගේ කාල ගණනයන් බැලීමට ස්පර්ශ කරන්න"</string>
+    <string msgid="1670505720837152766" name="analog_gadget">"ප්‍රතිසම ඔරලෝසුව"</string>
+    <string msgid="6674495003718166674" name="app_label">"ඔරලෝසුව"</string>
+    <string msgid="4821982647348750809" name="auto_silence_never">"කවදාවත් නොවේ"</string>
+    <string msgid="7028508740659733028" name="auto_silence_summary">"මිනිත්තු <ns1:g id="MINUTES">%d</ns1:g>"</string>
+    <string msgid="2012754009554434544" name="auto_silence_title">"නිහඬවන්නෙ පසු"</string>
+    <string msgid="6274174710735449252" name="automatic_home_clock">"ස්වයංක්‍රීය නිවාස ඔරලෝසුව"</string>
+    <string msgid="6020476321040807273" name="automatic_home_clock_summary">"වෙලාව වෙනස් ප්‍රදේශයක සංචාරය කරන අතරතුර, නිවසෙහි වෙලාව සඳහා ඔරලෝසුවක් එක් කරන්න"</string>
+    <string msgid="5251483622085889693" name="battery_charging_level">"<ns1:g id="NUMBER">%d</ns1:g><ns1:g id="PERCENT">%%</ns1:g>"</string>
+    <string msgid="8016103479617020265" name="button_alarms">"ඇඟවීම්"</string>
+    <string msgid="4555761857494501363" name="button_cities">"නගර"</string>
+    <string msgid="6050484561842120282" name="button_menu">"තවත් විකල්ප"</string>
+    <string msgid="8552462751129256730" name="cities_activity_title">"නගර"</string>
+    <string msgid="1783441538785676299" name="city_delete_confirmation">"මෙම නගරය ඉවත් කරන්නද?"</string>
+    <string msgid="2656876819515011590" name="clock_instructions">"ඔරලෝසුවක් තෝරන්න"</string>
+    <string msgid="8887845806151785393" name="clock_settings">"ඔරලෝසුව"</string>
+    <string msgid="2265011060429742344" name="clock_style">"විලාසය"</string>
+    <string msgid="3561772046433483980" name="collapse_alarm">"ඇඟවීම අකුලන්න"</string>
+    <string msgid="2194676418924016327" name="control_set_alarm">"ඇඟවීම සකසන්න"</string>
+    <string msgid="7984755014526510295" name="day">"දවස් 1 ක්"</string>
+    <string msgid="971998564991636532" name="day_concat">", "</string>
+    <string msgid="2070509222727852210" name="days">"දවස් <ns1:g id="DAYS">%s</ns1:g>"</string>
+    <string msgid="5590025289805630372" name="default_label">"ඇඟවීම"</string>
+    <string msgid="4549726190682964245" name="default_ringtone_setting_title">"සුපුරුදු රිංග්ටෝන්ස් සකසන්න"</string>
+    <string msgid="5732434972457000541" name="delete">"මකන්න"</string>
+    <string msgid="3457780990646206817" name="delete_alarm">"ඇඟවීම් මකන්න"</string>
+    <string msgid="6578572637340860840" name="delete_alarm_confirm">"මෙම ඇඟවීම මකන්නද?"</string>
+    <string msgid="1220848140260509437" name="deleted_message">"මකාදමන ලදී"</string>
+    <string msgid="8240473964024874053" name="description_direction_down">"සිහි කැඳවීමට පහලට සර්පණය කරන්න"</string>
+    <string msgid="6328816971226781776" name="description_direction_left">"සිහි කැඳවීමට වමට සර්පණය කරන්න"</string>
+    <string msgid="1615911557926085934" name="description_direction_right">"ඉවත ලෑමට දකුණට සර්පණය කරන්න"</string>
+    <string msgid="7875287578324520904" name="description_direction_up">"ඉවත ලෑමට ඉහළට සර්පණය කරන්න"</string>
+    <string msgid="4207371097361657274" name="desk_clock_button_description">"ඔරලෝසු දර්ශනය"</string>
+    <string msgid="2326954556720571358" name="digital_gadget">"ඩිජිටල් ඔරලෝසුව"</string>
+    <string msgid="5889378670229554109" name="disable_alarm">"ඇඟවීම් අක්‍රිය කරන්න"</string>
+    <string msgid="6509722361933858451" name="done">"හරි"</string>
+    <string msgid="1834599140632142536" name="enable_alarm">"ඇඟවීම සක්‍රිය කරන්න"</string>
+    <string msgid="4100909974923444602" name="every_day">"සෑමදාම"</string>
+    <string msgid="7392616528943305020" name="expand_alarm">"ඇඟවීම දිග හරින්න"</string>
+    <string msgid="1151743663255257668" name="gallery_button_description">"ගැලරිය"</string>
+    <string msgid="7786263119482654015" name="help">"සහාය"</string>
+    <string msgid="3217727306480505694" name="hide_clock">"ඔරලෝසුව සඟවන්න"</string>
+    <string msgid="3383859096809056157" name="home_button_description">"ආරම්භකය"</string>
+    <string msgid="4436139365695453870" name="home_label">"නිවස"</string>
+    <string msgid="9199730676287974501" name="home_time_zone">"නිවසේ කාල කලාපය"</string>
+    <string msgid="807894493443834624" name="home_time_zone_title">"නිවසේ කාල කලාපය"</string>
+    <string msgid="2546819039651509323" name="hour">"පැය 1"</string>
+    <string msgid="2071487018566991613" name="hours">"පැය <ns1:g id="HOURS">%s</ns1:g>"</string>
+    <string msgid="3393478155635368097" name="hours_label">"පැ"</string>
+    <string msgid="8652842524970971830" name="hours_label_description">"පැය"</string>
+    <string msgid="162189613902857319" name="label">"ලේබලය"</string>
+    <string msgid="8736179296142915727" name="label_description">"ලේබලය"</string>
+    <string msgid="4699506713571930740" name="label_unlabeled"/>
+    <string msgid="6523322777415268044" name="loading_ringtone">"රිංග්ටෝන් පුර්ණය වෙමින්…"</string>
+    <string msgid="5612760670606829805" name="menu_clock">"ඔරලෝසුව"</string>
+    <string msgid="3241995064554071588" name="menu_desk_clock">"මේස ඔරලෝසුව"</string>
+    <string msgid="7204602994918829751" name="menu_edit_alarm">"ඇඟවීම සංස්කරණය කරන්න"</string>
+    <string msgid="4570953476186849841" name="menu_item_help">"සහාය"</string>
+    <string msgid="3486930302245398975" name="menu_item_night_mode">"රාත්‍රී ආකාරය"</string>
+    <string msgid="1413723516369078665" name="menu_item_settings">"සැකසුම්"</string>
+    <string msgid="3396117705293574701" name="menu_stopwatch">"කාල ඝනකය"</string>
+    <string msgid="6459070074762877114" name="menu_timer">"කාල ගණනය"</string>
+    <string msgid="2486157997434653710" name="minute">"මිනිත්තු 1"</string>
+    <string msgid="6115838729146292526" name="minutes">"මිනිත්තු <ns1:g id="MINUTES">%s</ns1:g>"</string>
+    <string msgid="3568098128251438588" name="minutes_label">"මි"</string>
+    <string msgid="965686733490357796" name="minutes_label_description">"මිනිත්තු"</string>
+    <string msgid="1626593420810117999" name="music_button_description">"සංගීතය"</string>
+    <string msgid="54104287800571769" name="never">"කවදාවත් නොවේ"</string>
+    <string msgid="2650244835760747046" name="next_alarm_description">"මීළඟ ඇඟවීම: <ns1:g id="ALARM_TIME">%s</ns1:g>"</string>
+    <string msgid="6136454740115613653" name="next_timer_notif">"මීළඟ කාල ගණනය කිරීම: <ns1:g id="TIME_REMAINING">%s</ns1:g>"</string>
+    <string msgid="1017350187324162631" name="night_mode_summary">"ඉතා අඳුරු දර්ශන තීරය (අඳුරු කාමර සඳහා)"</string>
+    <string msgid="5983813889469616299" name="night_mode_title">"රාත්‍රී ආකාරය"</string>
+    <string msgid="990894208217576381" name="nightmode_button_description">"අඳුරු"</string>
+    <string msgid="9100911171235162926" name="revert">"ප්‍රතිවර්තනය කරන්න"</string>
+    <string msgid="9110746249688559579" name="ringtone">"රිංග්ටෝනය"</string>
+    <string msgid="7580922112921069925" name="ringtone_description">"රිංග්ටෝනය"</string>
+    <string msgid="7013450738357352801" name="screensaver_settings">"ඩ්‍රීම් සැකසුම්"</string>
+    <string msgid="124655952824003246" name="seconds_label">"ත"</string>
+    <string msgid="3821620053141299692" name="seconds_label_description">"තත්පර"</string>
+    <string msgid="775983396630163739" name="see_all">"සියල්ල බලන්න…"</string>
+    <string msgid="9148359866152726808" name="set_alarm">"ඇඟවීම සකසන්න"</string>
+    <string msgid="5849739030579520686" name="settings">"සැකසුම්"</string>
+    <string msgid="8358759982675616915" name="show_clock">"ඔරලෝසුව පෙන්වන්න"</string>
+    <string msgid="8605302849408279221" name="silent_alarm_summary">"නිහඬ"</string>
+    <string msgid="2077577763821006919" name="slash">"/"</string>
+    <string msgid="1097309861110780483" name="snooze_duration_title">"යළි සිහිකැඳවන දිග"</string>
+    <string msgid="8416624630388063996" name="stopwatch_service_desc">"දැනුම්දීම් ධාවනය කිරීමට කාල ඝනක සේවාවක්."</string>
+    <string msgid="6992264696039004233" name="sw_lap_button">"ලැප්"</string>
+    <string msgid="3535420316052647126" name="sw_notification_lap_number">"ලැප් <ns1:g id="NUMBER">%d</ns1:g>"</string>
+    <string msgid="6616804728322906117" name="sw_reset_button">"යළි පිහිටුවන්න"</string>
+    <string msgid="2569360966002022248" name="sw_resume_button">"නැවත පටන්ගන්න"</string>
+    <string msgid="4478648110382859382" name="sw_share_button">"බෙදාගන්න"</string>
+    <string msgid="614390674795945007" name="sw_share_laps">"ලැප් වේලාවන්:"</string>
+    <string msgid="7703563468204234405" name="sw_share_main">"මගේ වේලාව <ns1:g id="TIME">%s</ns1:g>"</string>
+    <string msgid="8373422516681242270" name="sw_start_button">"ආරම්භ කරන්න"</string>
+    <string msgid="8322958613123274451" name="sw_stop_button">"නතර කරන්න"</string>
+    <string msgid="783124901663086172" name="swn_stopped">"නතර කර ඇත"</string>
+    <string msgid="8067216534232296518" name="time">"කාලය"</string>
+    <string msgid="6001006474735281911" name="time_picker_00_label">":00"</string>
+    <string msgid="1027250857384838129" name="time_picker_30_label">":30"</string>
+    <string msgid="6754113715199751083" name="time_picker_ampm_label">"--"</string>
+    <string msgid="7437106489606013077" name="time_picker_cancel">"අවලංගු කරන්න"</string>
+    <string msgid="331153175471468051" name="time_picker_set">"හරි"</string>
+    <string msgid="7484926510054777041" name="time_picker_time_seperator">":"</string>
+    <string msgid="862733633862574752" name="timer_add_timer">"කාල ගණනයක් එක් කරන්න"</string>
+    <string msgid="3572868404230815644" name="timer_cancel">"අවලංගු කරන්න"</string>
+    <string msgid="8699122001991909302" name="timer_delete">"මකන්න"</string>
+    <string msgid="2815524107015816453" name="timer_delete_confirmation">"මෙම කාල ගණනය මකන්නද?"</string>
+    <string msgid="4933184831583137249" name="timer_notification_label">"කාල ගණනය"</string>
+    <string msgid="6631211310420106116" name="timer_plus_one">"මිනිත්තු 1 ක් එක් කරන්න"</string>
+    <string msgid="7848424809190171640" name="timer_reset">"යළි පිහිටුවන්න"</string>
+    <string msgid="2620214305660322415" name="timer_ring_service_desc">"ඔරලෝසුවේ සකසා ඇති කාල ගණනයන් සඳහා ශබ්ද පසු ධාවනය කිරීමේ සේවාව."</string>
+    <string msgid="6158486445614356442" name="timer_start">"ආරම්භ කරන්න"</string>
+    <string msgid="3361154678667736722" name="timer_stop">"නතර කරන්න"</string>
+    <string msgid="2730331837832462008" name="timer_stopped">"කාල ගණනය නතර කෙරුණි"</string>
+    <string msgid="9190440395938519009" name="timer_times_up">"වෙලාව ඉවරයි"</string>
+    <string msgid="5570729467344408506" name="timers_in_use">"කාල ගැනීම් <ns1:g id="NUMBER">%d</ns1:g>"</string>
+    <string msgid="2393640808691864520" name="timers_stopped">"කාල ගැනීම් <ns1:g id="NUMBER">%d</ns1:g> නවතා ඇත"</string>
+    <string msgid="8768042543750036853" name="volume_button_dialog_title">"බොත්තම් ආචරණය"</string>
+    <string msgid="6937131248843413357" name="volume_button_setting_title">"ශබ්ද බොත්තම්"</string>
+    <string msgid="3425804832021006835" name="weather_fetch_failure">"මේ දැන් කාලගුණ තොරතුරු ලබාගත නොහැක."</string>
+    <string msgid="5911196322328341288" name="world_day_of_week_label">"/ <ns1:g id="LABEL">%s</ns1:g>"</string>
+    <string msgid="7102083421938355017" name="zero">"0"</string>
+</resources>

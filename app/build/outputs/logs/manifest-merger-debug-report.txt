@@ -1,0 +1,477 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:1:1-241:12
+	xmlns:android
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:1:11-69
+	package
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:2:9-40
+		INJECTED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:3:35-62
+	android:versionCode
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:3:9-34
+		INJECTED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml
+original-package
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:5:5-63
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:5:23-60
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:10:22-63
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:11:22-70
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:13:22-72
+uses-permission#android.permission.DEVICE_POWER
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:15:22-77
+uses-sdk
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:16:5-84
+	android:targetSdkVersion
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:16:42-71
+		INJECTED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:16:15-41
+		INJECTED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:18:5-240:19
+	android:supportsRtl
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:21:18-44
+	android:label
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:18:18-51
+	android:icon
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:19:18-63
+	android:requiredForAllUsers
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:20:18-52
+provider#com.android.deskclock.provider.ClockProvider
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:23:9-25:44
+	android:exported
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:25:17-41
+	android:authorities
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:24:17-60
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:23:19-57
+activity#com.android.deskclock.DeskClock
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:27:9-39:20
+	android:label
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:28:17-50
+	android:icon
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:30:17-62
+	android:theme
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:29:17-49
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:27:19-43
+	android:launchMode
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:31:17-48
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.DEFAULT
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:36:27-73
+category#android.intent.category.LAUNCHER
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:37:27-74
+activity-alias#com.android.deskclock.DockClock
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:41:9-54:26
+	android:label
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:43:17-50
+	android:icon
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:45:17-62
+	android:theme
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:44:17-49
+	android:enabled
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:47:17-62
+	android:targetActivity
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:42:17-51
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:41:25-49
+	android:launchMode
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:46:17-48
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.DESK_DOCK
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:49:13-53:29
+category#android.intent.category.DESK_DOCK
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:52:17-78
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:52:27-75
+activity#com.android.deskclock.SettingsActivity
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:56:9-65:20
+	android:label
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:57:17-49
+	android:theme
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:58:17-53
+	android:excludeFromRecents
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:60:17-50
+	android:taskAffinity
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:59:17-40
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:56:19-50
+intent-filter#android.intent.action.MAIN
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:62:13-64:29
+activity#com.android.deskclock.worldclock.CitiesActivity
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:67:9-76:20
+	android:label
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:68:17-62
+	android:theme
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:69:17-51
+	android:excludeFromRecents
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:71:17-50
+	android:taskAffinity
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:70:17-40
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:67:19-60
+activity#com.android.deskclock.alarms.AlarmActivity
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:78:9-84:100
+	android:windowSoftInputMode
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:82:17-64
+	android:configChanges
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:84:17-98
+	android:theme
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:81:17-65
+	android:showOnLockScreen
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:83:17-48
+	android:excludeFromRecents
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:80:17-50
+	android:taskAffinity
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:79:17-40
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:78:19-55
+activity#com.android.deskclock.ScreensaverActivity
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:86:9-90:90
+	android:configChanges
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:90:17-87
+	android:theme
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:89:17-64
+	android:excludeFromRecents
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:87:17-50
+	android:taskAffinity
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:88:17-40
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:86:19-53
+receiver#com.android.deskclock.alarms.AlarmStateManager
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:92:9-94:20
+	android:exported
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:93:19-43
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:92:19-59
+service#com.android.deskclock.alarms.AlarmService
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:96:9-98:19
+	android:exported
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:97:18-42
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:96:18-53
+activity#com.android.deskclock.HandleApiCalls
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:100:9-116:20
+	android:theme
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:101:17-63
+	android:permission
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:103:17-76
+	android:excludeFromRecents
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:102:17-50
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:100:19-48
+intent-filter#android.intent.action.SET_ALARM+android.intent.category.DEFAULT
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:104:13-107:29
+action#android.intent.action.SET_ALARM
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:105:17-74
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:105:25-71
+intent-filter#android.intent.action.SHOW_ALARMS+android.intent.category.DEFAULT
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:108:13-111:29
+action#android.intent.action.SHOW_ALARMS
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:109:17-76
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:109:25-73
+intent-filter#android.intent.action.SET_TIMER+android.intent.category.DEFAULT
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:112:13-115:29
+action#android.intent.action.SET_TIMER
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:113:17-74
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:113:25-71
+activity-alias#com.android.deskclock.HandleSetAlarm
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:118:9-121:26
+	android:exported
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:120:13-36
+	android:targetActivity
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:119:13-53
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:118:25-54
+receiver#com.android.deskclock.AlarmInitReceiver
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:124:9-131:20
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:124:19-51
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.LOCALE_CHANGED+android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:125:13-130:29
+	android:priority
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:125:28-51
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:126:17-79
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:126:25-76
+action#android.intent.action.TIME_SET
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:127:17-73
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:127:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:128:17-81
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:128:25-78
+action#android.intent.action.LOCALE_CHANGED
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:129:17-79
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:129:25-76
+receiver#com.android.alarmclock.AnalogAppWidgetProvider
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:133:9-140:20
+	android:label
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:133:81-118
+	android:icon
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:134:12-57
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:133:19-80
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:135:13-137:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:136:17-84
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:136:25-81
+meta-data#android.appwidget.oldName
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:138:13-129
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:138:24-64
+	android:value
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:138:65-126
+meta-data#android.appwidget.provider
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:139:13-109
+	android:resource
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:139:66-106
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:139:24-65
+receiver#com.android.alarmclock.DigitalAppWidgetProvider
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:142:9-156:20
+	android:label
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:142:82-120
+	android:icon
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:143:12-57
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:142:19-81
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE+android.intent.action.ALARM_CHANGED+android.intent.action.DATE_CHANGED+android.intent.action.LOCALE_CHANGED+android.intent.action.SCREEN_ON+android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET+com.android.deskclock.ON_QUARTER_HOUR+com.android.deskclock.worldclock.update
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:144:13-154:33
+action#com.android.deskclock.ON_QUARTER_HOUR
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:146:17-80
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:146:25-77
+action#android.intent.action.DATE_CHANGED
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:147:17-77
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:147:25-74
+action#android.intent.action.SCREEN_ON
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:149:17-74
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:149:25-71
+action#android.intent.action.ALARM_CHANGED
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:152:17-78
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:152:25-75
+action#com.android.deskclock.worldclock.update
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:153:17-82
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:153:25-79
+service#com.android.alarmclock.DigitalAppWidgetService
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:158:9-160:41
+	android:exported
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:160:14-38
+	android:permission
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:159:14-70
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:158:18-79
+receiver#com.android.alarmclock.DigitalWidgetViewsFactory
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:162:9-163:41
+	android:exported
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:163:14-38
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:162:19-82
+service#com.android.deskclock.Screensaver
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:166:9-176:19
+	android:label
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:168:13-46
+	android:exported
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:167:13-36
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:166:18-44
+intent-filter#android.intent.category.DEFAULT+android.service.dreams.DreamService
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:169:13-172:29
+action#android.service.dreams.DreamService
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:170:17-78
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:170:25-75
+meta-data#android.service.dream
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:173:13-175:54
+	android:resource
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:175:17-51
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:174:17-53
+activity#com.android.deskclock.ScreensaverSettingsActivity
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:179:9-189:20
+	android:label
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:180:17-61
+	android:theme
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:181:17-58
+	android:exported
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:184:17-40
+	android:excludeFromRecents
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:183:17-50
+	android:taskAffinity
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:182:17-40
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:179:19-62
+activity#com.android.deskclock.timer.TimerAlertFullScreen
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:194:9-200:100
+	android:configChanges
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:200:17-98
+	android:theme
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:196:17-65
+	android:showOnLockScreen
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:198:17-48
+	android:excludeFromRecents
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:195:17-50
+	android:taskAffinity
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:199:17-40
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:194:19-82
+	android:launchMode
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:197:17-52
+service#com.android.deskclock.TimerRingService
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:202:9-208:19
+	android:exported
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:203:17-41
+	android:description
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:204:17-70
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:202:18-49
+intent-filter#com.android.deskclock.TIMER_ALERT
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:205:13-207:29
+action#com.android.deskclock.TIMER_ALERT
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:206:17-76
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:206:25-73
+receiver#com.android.deskclock.timer.TimerReceiver
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:210:9-227:20
+	android:exported
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:211:17-41
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:210:19-75
+intent-filter#delete_timer+notif_in_use_cancel+notif_in_use_show+notif_times_up_cancel+notif_times_up_plus_one+notif_times_up_show+notif_times_up_stop+start_timer+timer_done+timer_reset+timer_stop+timer_update+times_up
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:212:13-226:29
+action#start_timer
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:213:17-54
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:213:25-51
+action#delete_timer
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:214:17-55
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:214:25-52
+action#times_up
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:215:17-51
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:215:25-48
+action#timer_stop
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:216:17-53
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:216:25-50
+action#timer_reset
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:217:17-54
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:217:25-51
+action#timer_done
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:218:17-53
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:218:25-50
+action#timer_update
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:219:17-55
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:219:25-52
+action#notif_in_use_show
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:220:17-60
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:220:25-57
+action#notif_in_use_cancel
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:221:17-62
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:221:25-59
+action#notif_times_up_stop
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:222:17-62
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:222:25-59
+action#notif_times_up_plus_one
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:223:17-66
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:223:25-63
+action#notif_times_up_show
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:224:17-62
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:224:25-59
+action#notif_times_up_cancel
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:225:17-64
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:225:25-61
+service#com.android.deskclock.stopwatch.StopwatchService
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:229:9-239:19
+	android:exported
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:230:17-41
+	android:description
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:231:17-69
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:229:18-81
+intent-filter#lap_stopwatch+reset_stopwatch+share_stopwatch+start_stopwatch+stop_stopwatch
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:232:13-238:29
+action#start_stopwatch
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:233:17-58
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:233:25-55
+action#lap_stopwatch
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:234:17-56
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:234:25-53
+action#stop_stopwatch
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:235:17-57
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:235:25-54
+action#reset_stopwatch
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:236:17-58
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:236:25-55
+action#share_stopwatch
+ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:237:17-58
+	android:name
+		ADDED from D:\GitHub\DeskClock\app\src\main\AndroidManifest.xml:237:25-55
